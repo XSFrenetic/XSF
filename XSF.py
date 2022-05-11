@@ -16,11 +16,11 @@
 #                |
 #                |
 #                |
-#       HACEMOS PING A CADA IP (USAMOS LAS PROPIEDADES DE FILE Y READLINE PARA ENCONTRAR EL TEXTO QUE NECESITAMOS)
+#       HACEMOS PING A CADA IP (USAMOS LAS PROPIEDADES DE FILE Y READLINE PARA ENCONTRAR EL TEXTO QUE NECESITAMOS) Check
 #                |
 #                |
 #                | 
-#       FILTRAMOS EL RESULTADO
+#       FILTRAMOS EL RESULTADO Check
 #       PARA ENCONTRAR LA RESPUESTA
 #                |
 #                |
